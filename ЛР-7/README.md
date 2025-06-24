@@ -1,4 +1,5 @@
 1. Создадим бота
+
 ![image](https://github.com/user-attachments/assets/0ade3eaf-021a-417b-9fc0-f53f59706cc5)
 
 2. API шлюз
